@@ -19,3 +19,5 @@ Idea description: In general terms, I want to develop a cross-platform app that 
   - how do i integrate the electron app with OS/native API's? (do I go through electron, node or something else)
   - would it execute faster if i used C++ native or would the difference really not be worth it?
   - what are causing the other two electron processes to open?
+
+**WHEN you answer questions, keep a record of them. you can publish it as well like in a blog or something**
